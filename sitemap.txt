@@ -1,5 +1,5 @@
-http://example.com/categories/index.html
 http://example.com/2024/02/20/pytest-01/
+http://example.com/categories/index.html
 http://example.com/2024/01/15/xianjie/
 http://example.com/2024/01/15/hello-world/
 http://example.com/archives/index.html

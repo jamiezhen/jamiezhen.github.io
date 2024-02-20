@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-02-20T11:48:55.346Z</updated>
+  <updated>2024-02-20T11:51:43.276Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,8 +21,15 @@
     <link href="http://example.com/2024/02/20/pytest-01/"/>
     <id>http://example.com/2024/02/20/pytest-01/</id>
     <published>2024-02-20T11:47:46.000Z</published>
-    <updated>2024-02-20T11:48:55.346Z</updated>
+    <updated>2024-02-20T11:51:43.276Z</updated>
     
+    <content type="html"><![CDATA[<h3 id="pytest获取测试结果"><a href="#pytest获取测试结果" class="headerlink" title="pytest获取测试结果"></a>pytest获取测试结果</h3>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;pytest获取测试结果&quot;&gt;&lt;a href=&quot;#pytest获取测试结果&quot; class=&quot;headerlink&quot; title=&quot;pytest获取测试结果&quot;&gt;&lt;/a&gt;pytest获取测试结果&lt;/h3&gt;</summary>
+      
     
     
     
