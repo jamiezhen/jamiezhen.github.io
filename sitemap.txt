@@ -1,10 +1,12 @@
+http://example.com/categories/index.html
+http://example.com/2024/02/20/pytest-01/
 http://example.com/2024/01/15/xianjie/
 http://example.com/2024/01/15/hello-world/
-http://example.com/categories/index.html
 http://example.com/archives/index.html
 http://example.com/tags/index.html
 http://example.com/
 http://example.com/tags/%E6%B5%8B%E8%AF%95/
 http://example.com/tags/Hello-World/
 http://example.com/tags/next/
+http://example.com/tags/pytest/
 http://example.com/categories/Hello-World/
